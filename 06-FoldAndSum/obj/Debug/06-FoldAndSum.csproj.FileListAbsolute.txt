@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\LabDictionariesLambdaAndLINQ-Lab\06-FoldAndSum\bin\Debug\06-FoldAndSum.exe.config
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\LabDictionariesLambdaAndLINQ-Lab\06-FoldAndSum\bin\Debug\06-FoldAndSum.exe
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\LabDictionariesLambdaAndLINQ-Lab\06-FoldAndSum\bin\Debug\06-FoldAndSum.pdb
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\LabDictionariesLambdaAndLINQ-Lab\06-FoldAndSum\obj\Debug\06-FoldAndSum.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\LabDictionariesLambdaAndLINQ-Lab\06-FoldAndSum\obj\Debug\06-FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\LabDictionariesLambdaAndLINQ-Lab\06-FoldAndSum\obj\Debug\06-FoldAndSum.exe
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\LabDictionariesLambdaAndLINQ-Lab\06-FoldAndSum\obj\Debug\06-FoldAndSum.pdb
