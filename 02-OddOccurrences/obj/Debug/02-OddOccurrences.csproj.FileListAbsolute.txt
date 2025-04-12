@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\02-OddOccurrences\bin\Debug\02-OddOccurrences.exe.config
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\02-OddOccurrences\bin\Debug\02-OddOccurrences.exe
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\02-OddOccurrences\bin\Debug\02-OddOccurrences.pdb
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\02-OddOccurrences\obj\Debug\02-OddOccurrences.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\02-OddOccurrences\obj\Debug\02-OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\02-OddOccurrences\obj\Debug\02-OddOccurrences.exe
+C:\Users\Laptop\Desktop\C#\DictionariesLambdaAndLINQ-Lab\02-OddOccurrences\obj\Debug\02-OddOccurrences.pdb
