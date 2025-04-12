@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\5-ShortWordsSorted\bin\Debug\5-ShortWordsSorted.exe.config
+C:\Users\Laptop\Desktop\C#\5-ShortWordsSorted\bin\Debug\5-ShortWordsSorted.exe
+C:\Users\Laptop\Desktop\C#\5-ShortWordsSorted\bin\Debug\5-ShortWordsSorted.pdb
+C:\Users\Laptop\Desktop\C#\5-ShortWordsSorted\obj\Debug\5-ShortWordsSorted.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\5-ShortWordsSorted\obj\Debug\5-ShortWordsSorted.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\5-ShortWordsSorted\obj\Debug\5-ShortWordsSorted.exe
+C:\Users\Laptop\Desktop\C#\5-ShortWordsSorted\obj\Debug\5-ShortWordsSorted.pdb
